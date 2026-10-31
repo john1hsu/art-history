@@ -2,7 +2,8 @@
 title: Encaustic Painting
 category: techniques
 period: Antiquity to present (central case study 1st–4th century CE, Roman Egypt)
-related: []
+related:
+  - byzantine-iconoclasm
 sources:
   - https://www.getty.edu/publications/mummyportraits/part-one/1/
   - https://harvardartmuseums.org/article/face-time-with-ancient-egyptians
@@ -24,7 +25,7 @@ The binder is beeswax, sometimes thought to have been modified or mixed with oth
 
 ## Ancient references
 
-Greek writers and Pliny the Elder are the main literary witnesses. An EBSCO research overview notes that the Greeks were skilled in panel painting in encaustic as well as tempera, citing Pliny and the later writer Pausanias. Pliny's own remarks are hard to use as a recipe. The Roman author mentions a material called "Punic wax," but his description is cryptic: modern readers have interpreted it as purified beeswax, or as wax treated with an alkali so it could be thinned with water. Scholars have proposed several recipes mixing wax with resin, egg or oil, yet the Getty account notes that none has been confirmed by scientific analysis of the portraits themselves. The written sources tell us wax painting was known and prized, but not exactly how every painter prepared it. Details such as the specific heated tools used in antiquity are not covered by the sources consulted for this article.
+Greek writers and Pliny the Elder are the main literary witnesses. An EBSCO research overview notes that the Greeks were skilled in panel painting in encaustic as well as tempera, citing Pliny and the later writer Pausanias. Pliny's own remarks are hard to use as a recipe. The Roman author mentions a material called "Punic wax," but his description is cryptic: modern readers have interpreted it as purified beeswax, or as wax treated with an alkali so it could be thinned with water. Scholars have proposed several recipes mixing wax with resin, egg or oil, yet the Getty account notes that none has been confirmed by scientific analysis of the portraits themselves. The written sources show wax painting was known and prized, but not exactly how painters prepared it.
 
 ## The Fayum portraits
 
@@ -34,7 +35,7 @@ Scholars have traditionally divided the portraits into an encaustic group and a 
 
 ## Decline
 
-The mummy-portrait custom is dated to the first four centuries CE, running, in the Getty catalogue's words, from Julio-Claudian times through the age of Constantine. None of the sources consulted explains why it ended. Wax painting itself continued: the Metropolitan Museum holds a sixth-century encaustic icon from Egypt attributed to the Monastery of Saint Catherine at Sinai, and Smarthistory describes the sixth-century *Christ Blessing* icon there as encaustic, a technique used in Egypt from at least the late first century CE. Later Sinai icons, such as a late twelfth-century *Heavenly Ladder* and works of the early thirteenth century, are in tempera and gold, and the tempera tradition in turn peaked from about the thirteenth century to the mid-1500s before declining with oil paint, according to EBSCO. These sources show encaustic giving way to other media over many centuries, but they do not assign a single cause or date to its decline.
+The mummy-portrait custom is dated to the first four centuries CE, running, in the Getty catalogue's words, from Julio-Claudian times through the age of Constantine. None of the sources consulted explains why it ended. Wax painting itself continued: a sixth-century encaustic icon of the Virgin and Child, belonging to the Monastery of Saint Catherine at Sinai and lent to the Metropolitan Museum, is catalogued as Early Byzantine work from Egypt, and Smarthistory describes the sixth-century *Christ Blessing* icon there as encaustic, a technique used in Egypt from at least the late first century CE. Both date from well before the image controversy described in [Byzantine Iconoclasm](../themes/byzantine-iconoclasm.md). Later Sinai icons, such as a late twelfth-century *Heavenly Ladder* and works of the early thirteenth century, are in tempera and gold, and the tempera tradition in turn peaked from about the thirteenth century to the mid-1500s before declining with oil paint, according to EBSCO. These sources show encaustic giving way to other media over many centuries, but they do not assign a single cause or date to its decline.
 
 ## Modern revival
 
@@ -47,6 +48,6 @@ Encaustic returned to prominence in twentieth-century American art through Jaspe
 - The J. Paul Getty Museum, *Mummy Portraits in the J. Paul Getty Museum* (1982): <https://www.getty.edu/publications/resources/virtuallibrary/0892360380.pdf>
 - Brooklyn Museum, mummy portrait entry: <https://brooklynmuseum.org/opencollection/objects/4296>
 - Smarthistory, "Art and architecture of Saint Catherine's Monastery at Mount Sinai": <https://pressbooks.pub/smarthistoryguidetobyzantineart/chapter/art-and-architecture-of-saint-catherines-monastery-at-mount-sinai>
-- The Metropolitan Museum of Art, Icon with the Virgin and Child, Saints, Angels, and the Hand of God (6th century): <https://www.metmuseum.org/art/collection/search/846440>
+- The Metropolitan Museum of Art, Icon with the Virgin and Child, Saints, Angels, and the Hand of God (6th century, Monastery of Saint Catherine, Sinai; on loan): <https://www.metmuseum.org/art/collection/search/846440>
 - EBSCO Research Starters, "Tempera Painting": <https://www.ebsco.com/research-starters/visual-arts/tempera-painting/>
 - The Museum of Modern Art, Jasper Johns, *Flag*: <https://www.moma.org/collection/works/78805>
