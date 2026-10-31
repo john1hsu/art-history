@@ -6,6 +6,11 @@ related: []
 sources:
   - https://www.getty.edu/publications/mummyportraits/part-one/1/
   - https://harvardartmuseums.org/article/face-time-with-ancient-egyptians
+  - https://www.getty.edu/publications/resources/virtuallibrary/0892360380.pdf
+  - https://brooklynmuseum.org/opencollection/objects/4296
+  - https://pressbooks.pub/smarthistoryguidetobyzantineart/chapter/art-and-architecture-of-saint-catherines-monastery-at-mount-sinai
+  - https://www.metmuseum.org/art/collection/search/846440
+  - https://www.ebsco.com/research-starters/visual-arts/tempera-painting/
   - https://www.moma.org/collection/works/78805
 ---
 
@@ -19,17 +24,17 @@ The binder is beeswax, sometimes thought to have been modified or mixed with oth
 
 ## Ancient references
 
-Written evidence for ancient wax painting is limited and puzzling. The Roman author Pliny the Elder mentions a material called "Punic wax," but his description is cryptic. Modern readers have interpreted it as purified beeswax, or as wax treated with an alkali so it could be thinned with water. Scholars have proposed several recipes mixing wax with resin, egg or oil, yet the Getty account notes that none has been confirmed by scientific analysis of the portraits themselves. Ancient texts also associate the method with heated tools, among them an implement called the cauterium used to warm and blend the wax. The honest conclusion is that the written sources tell us wax painting was known and prized, but not exactly how every painter prepared it.
+Greek writers and Pliny the Elder are the main literary witnesses. An EBSCO research overview notes that the Greeks were skilled in panel painting in encaustic as well as tempera, citing Pliny and the later writer Pausanias. Pliny's own remarks are hard to use as a recipe. The Roman author mentions a material called "Punic wax," but his description is cryptic: modern readers have interpreted it as purified beeswax, or as wax treated with an alkali so it could be thinned with water. Scholars have proposed several recipes mixing wax with resin, egg or oil, yet the Getty account notes that none has been confirmed by scientific analysis of the portraits themselves. The written sources tell us wax painting was known and prized, but not exactly how every painter prepared it. Details such as the specific heated tools used in antiquity are not covered by the sources consulted for this article.
 
 ## The Fayum portraits
 
-The strongest body of evidence is a group of about a thousand portraits on thin wooden panels from Roman-period Egypt, dating from roughly the first to the fourth century CE and often called Fayum portraits after the region where many were found. They were inserted into the wrappings of mummies, replacing the painted or modeled masks of earlier Egyptian burial and showing the deceased with the hairstyles, clothing and jewelry of the Greco-Roman world. They combine a Mediterranean portrait tradition with Egyptian funerary beliefs, a mix typical of the period. Harvard Art Museums notes that clues from hairstyle and dress can sometimes help date a panel, and that its examples are on wood such as linden, which is not native to Egypt and was probably imported.
+The strongest body of evidence is a group of roughly a thousand portraits on thin wooden panels from Roman-period Egypt, which Harvard Art Museums dates to the first to fourth century CE; the Brooklyn Museum gives a range of 95 to 230 CE for its examples. They are called Fayum portraits after the Fayum Oasis, south of Cairo, where most were found. The panels were placed over the face of the deceased and woven into the linen wrapping, functioning like a mask. Brooklyn describes the style as Greco-Roman, with realistic, individualized faces, shading and Roman clothing, while the placement over the face comes from Egyptian funerary practice. Harvard Art Museums notes that hairstyle and dress can sometimes help date a panel, and that its examples are on wood such as linden, which is not native to Egypt and was probably imported.
 
 Scholars have traditionally divided the portraits into an encaustic group and a tempera group, originally by appearance. Encaustic examples tend to show thick, textured paint and tool marks, while tempera examples are flatter and matte. The Getty study of two portraits in the Art Institute of Chicago found beeswax in both, though one had the heavy impasto expected of heat-applied wax and the other showed the fine, crosshatched handling of tempera. Harvard reports that its tempera portrait used animal glue as the binder, and the Getty account adds that most non-wax examples seem to contain glue rather than egg. Only a small number of portraits have been studied rigorously, so many attributions still rest on how the surface looks.
 
 ## Decline
 
-Encaustic portraiture did not vanish all at once. The portrait tradition belongs to the first to fourth centuries, and with the end of that burial custom the best-documented use of the medium also fades. The sources consulted here do not trace a continuous line of wax painting after antiquity, so the later history should be treated as uncertain rather than as a story of clean disappearance.
+The mummy-portrait custom is dated to the first four centuries CE, running, in the Getty catalogue's words, from Julio-Claudian times through the age of Constantine. None of the sources consulted explains why it ended. Wax painting itself continued: the Metropolitan Museum holds a sixth-century encaustic icon from Egypt attributed to the Monastery of Saint Catherine at Sinai, and Smarthistory describes the sixth-century *Christ Blessing* icon there as encaustic, a technique used in Egypt from at least the late first century CE. Later Sinai icons, such as a late twelfth-century *Heavenly Ladder* and works of the early thirteenth century, are in tempera and gold, and the tempera tradition in turn peaked from about the thirteenth century to the mid-1500s before declining with oil paint, according to EBSCO. These sources show encaustic giving way to other media over many centuries, but they do not assign a single cause or date to its decline.
 
 ## Modern revival
 
@@ -39,4 +44,9 @@ Encaustic returned to prominence in twentieth-century American art through Jaspe
 
 - The J. Paul Getty Museum, *Mummy Portraits* (chapter on binding media): <https://www.getty.edu/publications/mummyportraits/part-one/1/>
 - Harvard Art Museums, "Face Time with Ancient Egyptians": <https://harvardartmuseums.org/article/face-time-with-ancient-egyptians>
+- The J. Paul Getty Museum, *Mummy Portraits in the J. Paul Getty Museum* (1982): <https://www.getty.edu/publications/resources/virtuallibrary/0892360380.pdf>
+- Brooklyn Museum, mummy portrait entry: <https://brooklynmuseum.org/opencollection/objects/4296>
+- Smarthistory, "Art and architecture of Saint Catherine's Monastery at Mount Sinai": <https://pressbooks.pub/smarthistoryguidetobyzantineart/chapter/art-and-architecture-of-saint-catherines-monastery-at-mount-sinai>
+- The Metropolitan Museum of Art, Icon with the Virgin and Child, Saints, Angels, and the Hand of God (6th century): <https://www.metmuseum.org/art/collection/search/846440>
+- EBSCO Research Starters, "Tempera Painting": <https://www.ebsco.com/research-starters/visual-arts/tempera-painting/>
 - The Museum of Modern Art, Jasper Johns, *Flag*: <https://www.moma.org/collection/works/78805>
