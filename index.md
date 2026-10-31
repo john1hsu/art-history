@@ -6,7 +6,7 @@ Table of contents for the art-history collection, grouped by category.
 
 ## Movements
 
-_No articles yet._
+- [Ukiyo-e: Pictures of the Floating World](articles/movements/ukiyo-e.md) — Edo period, 17th–19th century
 
 ## Artists
 
@@ -26,4 +26,4 @@ _No articles yet._
 
 ---
 
-0 article(s).
+1 article(s).
