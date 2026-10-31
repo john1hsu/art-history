@@ -1,0 +1,37 @@
+name: Validate articles
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Article lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Lint articles
+        run: python3 scripts/lint_articles.py
+
+      - name: Warn if index.md was edited in this PR
+        if: github.event_name == 'pull_request'
+        run: |
+          if git diff --name-only "origin/${{ github.base_ref }}...HEAD" | grep -qx 'index.md'; then
+            echo "::warning file=index.md::index.md is generated after merge; PRs should not edit it."
+          fi
