@@ -10,7 +10,7 @@ Table of contents for the art-history collection, grouped by category.
 
 ## Artists
 
-_No articles yet._
+- [Artemisia Gentileschi](articles/artists/artemisia-gentileschi.md) — Italian Baroque, 17th century
 
 ## Works
 
@@ -26,4 +26,4 @@ _No articles yet._
 
 ---
 
-1 article(s).
+2 article(s).
