@@ -6,7 +6,8 @@ related: []
 sources:
   - https://arthistoryteachingresources.org/lessons/mexican-muralism/
   - https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm
-  - https://human.libretexts.org/Bookshelves/Art/Art_History_(Boundless)/29%3A_Europe_and_America_from_1900-1950_CE/29.07%3A_The_Mexican_Renaissance
+  - https://www.nps.gov/places/the-epic-of-american-civilization-murals.htm
+  - https://www.britannica.com/print/article/546485
 ---
 
 # Mexican Muralism
@@ -21,11 +22,11 @@ The earliest commissions, such as Rivera's *Creation* (1922–23) and Orozco's *
 
 ## Three artists, three temperaments
 
-Rivera (1886–1957) was the most celebratory and the most influential on younger painters. He honored national heroes and ordinary Mexican life, and his *History of Mexico* (begun 1929) in the Palacio Nacional unfolds the country's past across a spiral-shaped stairwell composition.
+Rivera was the most celebratory and the most influential on younger painters. He honored national heroes and ordinary Mexican life, and his *History of Mexico* (begun 1929) in the Palacio Nacional unfolds the country's past across a spiral-shaped stairwell composition.
 
-Orozco (1883–1949) was more expressionistic and more skeptical. Having lived through the fighting, he preferred to show its cruelty and the suffering of the oppressed rather than to glorify it, and *The Trench* (1926) combines a Cubist sense of space with a pacifist outlook. Some of his murals drew angry criticism.
+Orozco was more expressionistic and more skeptical. He tended to dwell on the Revolution's cruelty rather than glorify it, and *The Trench* (1926) combines a Cubist sense of space with a pacifist outlook. Some of his murals drew angry criticism.
 
-Siqueiros (1896–1974), the youngest and most radical, served in the revolutionary army as a teenager and remained a committed political activist. His work is the most technically adventurous of the three.
+Siqueiros (1896–1974), the most radical of the three, left art school in 1913 to fight in Venustiano Carranza's army and remained a committed political activist. His work is the most technically adventurous of the three.
 
 ## Techniques
 
@@ -35,14 +36,15 @@ Fresco, in which pigment is applied to wet lime plaster so that it bonds permane
 
 During the early 1930s the painters received commissions north of the border. Rivera's *Detroit Industry* (1932–33) at the Detroit Institute of Arts covers the walls of the Garden Court with 27 panels showing the city's factories, workers and technologies, based on thousands of preparatory drawings and on his sketches of Ford's River Rouge plant. Painted in true fresco and funded through a fund associated with Edsel Ford, it is now a National Historic Landmark. Not every project fared as well: *Man at the Crossroads* (1933) at Rockefeller Center was destroyed after Rivera included a portrait of Lenin, and he later repainted the composition in Mexico City.
 
-Orozco's *Epic of American Civilization* (1932–34) at Dartmouth College reinterpreted the Conquest, while Siqueiros ran an experimental workshop in New York in 1936 that attracted the young Jackson Pollock, whose later drip techniques have been linked to those paint experiments.
+Orozco's *Epic of American Civilization* (1932–34), 24 panels in the Reserve Book Reading Room of Dartmouth College's Baker Library, treated the Conquest as one stage in a longer encounter between Indigenous and European peoples, while Siqueiros ran an experimental workshop in New York in 1936 that attracted the young Jackson Pollock, whose later drip techniques have been linked to those paint experiments.
 
 ## Legacy
 
-Support for muralism waned after about 1940, as anti-Communist sentiment grew in the United States and Mexican politics shifted to the right, though Siqueiros kept working until his death. The movement's example nonetheless endured. The Works Progress Administration's public mural projects in the United States drew on the Mexican model, Chicano muralists took up the form in the 1970s and 1980s, and Siqueiros's ideas fed later Latin American installation art.
+Support for muralism waned after about 1940, as anti-Communist sentiment grew in the United States, though Siqueiros kept working until his death. The movement's example nonetheless endured. The Works Progress Administration's public mural projects in the United States drew on the Mexican model, Chicano muralists took up the form in the 1970s and 1980s, and Siqueiros's polyangular perspective influenced later Latin American artists.
 
 ## Sources
 
 - Art History Teaching Resources, "Mexican Muralism": https://arthistoryteachingresources.org/lessons/mexican-muralism/
 - National Park Service, "Detroit Industry Murals, Detroit Institute of Arts": https://www.nps.gov/places/detroit-industry-murals-detroit-institute-of-arts.htm
-- Boundless Art History (LibreTexts), "The Mexican Renaissance": https://human.libretexts.org/Bookshelves/Art/Art_History_(Boundless)/29%3A_Europe_and_America_from_1900-1950_CE/29.07%3A_The_Mexican_Renaissance
+- National Park Service, "The Epic of American Civilization Murals": https://www.nps.gov/places/the-epic-of-american-civilization-murals.htm
+- Encyclopaedia Britannica, "David Alfaro Siqueiros": https://www.britannica.com/print/article/546485
