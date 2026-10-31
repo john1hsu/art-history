@@ -22,9 +22,9 @@ Zhu Da grew up in a family connected to the Ming ruling house and was reportedly
 
 ## Monk, crisis, and a new name
 
-In the late 1640s he entered a Buddhist monastery and became a Chan (Zen) monk, eventually teaching students of his own. Around 1680 he left the monastic life. Sources differ on exact dates, and the Metropolitan Museum places his first use of the name Bada Shanren in 1684, while the National Gallery of Victoria dates it to 1685. Britannica notes that he used several names, and the NGV essay counts more than forty over his lifetime.
+In the late 1640s he entered a Buddhist monastery and became a Chan (Zen) monk, eventually teaching students of his own. He later left monastic life, though sources differ on when: the Metropolitan Museum's text puts it around 1680, while the National Gallery of Victoria essay records that in 1687 he left a temple to devote himself to painting. They also differ on the name Bada Shanren, which the Metropolitan Museum places in 1684, while the National Gallery of Victoria dates it to 1685. Britannica notes that he used several names, and the NGV essay counts more than forty over his lifetime.
 
-Around this time he went through a period of apparent breakdown. Stories tell of him laughing and weeping in public, tearing his robes, running through a market in strange clothes, and writing the character for "mute" on his door and refusing to speak. Historians cannot say whether this was true illness, eccentric temperament, or a calculated performance. Feigned madness was a recognized survival strategy for loyalists in dangerous times, and a nephew is said to have brought him home. Afterwards he lived by selling painting and calligraphy, 
+Around this time he went through a period of apparent breakdown. Stories tell of him laughing and weeping in public, tearing his robes, running through a market in strange clothes, and writing the character for "mute" on his door and refusing to speak. Historians cannot say whether this was true illness, eccentric temperament, or a calculated performance. Feigned madness was a recognized survival strategy for loyalists in dangerous times, and a nephew is said to have brought him home. Afterwards he lived by selling painting and calligraphy.
 
 ## The yimin and the individualists
 
