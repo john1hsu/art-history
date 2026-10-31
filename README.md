@@ -30,9 +30,9 @@ Four scheduled Claude jobs run the pipeline. Labels are the state machine:
 
 | Job | Runs | Reads | Writes |
 |---|---|---|---|
-| Planner | hourly | repo contents, all issues | 3 new issues labeled `planned` per run (stops at 100 waiting) |
-| Builder | hourly | `planned` issues | branch + PR labeled `needs-review` (max 3 open PRs) |
-| Reviewer | hourly | `needs-review` PRs | `approved` or `changes-requested` |
-| Merger | hourly | `approved` / `changes-requested` PRs | merges, or revises; after 2 revision rounds → `blocked` |
+| Planner | hourly | repo contents, all issues | 1 new issue labeled `planned` per run |
+| Builder | hourly | `planned` issues | up to 2 PRs labeled `needs-review` per run (max 6 open PRs) |
+| Reviewer | hourly | `needs-review` PRs | up to 4 per run → `approved` or `changes-requested` |
+| Merger | hourly | `approved` / `changes-requested` PRs | up to 4 per run: merges, or revises; after 2 revision rounds → `blocked` |
 
 Anything labeled `blocked` is waiting on a human.
