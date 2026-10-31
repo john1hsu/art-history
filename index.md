@@ -15,6 +15,7 @@ Table of contents for the art-history collection, grouped by category.
 ## Works
 
 - [Benin Bronzes](articles/works/benin-bronzes.md) — c. 13th–19th century (Kingdom of Benin, present-day Nigeria)
+- [The Shahnama of Shah Tahmasp](articles/works/shahnama-of-shah-tahmasp.md) — Safavid Iran, c. 1522–1540
 
 ## Techniques
 
@@ -26,4 +27,4 @@ _No articles yet._
 
 ---
 
-4 article(s).
+5 article(s).
