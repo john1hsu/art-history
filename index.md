@@ -14,7 +14,7 @@ Table of contents for the art-history collection, grouped by category.
 
 ## Works
 
-_No articles yet._
+- [Benin Bronzes](articles/works/benin-bronzes.md) — c. 13th–19th century (Kingdom of Benin, present-day Nigeria)
 
 ## Techniques
 
@@ -22,8 +22,8 @@ _No articles yet._
 
 ## Themes
 
-_No articles yet._
+- [Byzantine Iconoclasm](articles/themes/byzantine-iconoclasm.md) — Byzantine, c. 726–843 CE
 
 ---
 
-2 article(s).
+4 article(s).
