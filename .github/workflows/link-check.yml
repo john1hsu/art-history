@@ -1,0 +1,56 @@
+name: Weekly link check
+
+on:
+  schedule:
+    - cron: "17 9 * * 1" # Mondays 09:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    name: Check source URLs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --timeout 30
+            --accept 200..=299,403,429
+            'articles/**/*.md'
+          output: lychee-report.md
+          fail: false
+
+      - name: Open an issue for broken links
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="fix: broken source links ($(date -u +%Y-%m-%d))"
+          {
+            echo "## Goal"
+            echo "Replace or remove source URLs that no longer resolve."
+            echo
+            echo "## Scope"
+            echo "Only the articles listed in the report below. For each broken URL, find the same source at a working URL (or an archived copy from web.archive.org), or replace it with another reputable source that supports the same claims. Keep at least 2 sources per article."
+            echo
+            echo "## Acceptance criteria"
+            echo "- Every URL in the report is fixed or replaced"
+            echo "- Front matter \`sources\` and the Sources section stay in sync"
+            echo "- Article lint passes"
+            echo
+            echo "## Out of scope"
+            echo "Rewriting article prose."
+            echo
+            echo "## Report"
+            cat lychee-report.md
+          } > body.md
+          gh issue create --title "$title" --body-file body.md --label planned --label art-history-bot

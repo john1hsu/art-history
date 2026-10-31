@@ -11,7 +11,8 @@ articles/
   works/          # e.g. las-meninas.md
   techniques/     # e.g. sfumato.md, lost-wax-casting.md
   themes/         # cross-cutting ideas: patronage, iconography, the gaze
-index.md          # table of contents, grouped by category
+index.md          # table of contents, generated after every merge (do not edit)
+scripts/          # lint_articles.py, build_index.py
 ```
 
 ## Article conventions
@@ -23,6 +24,10 @@ Every article:
 - Ends with a **Sources** section listing at least two reputable references (museum sites, university presses, peer-reviewed journals, major encyclopedias) with URLs.
 - Links to related articles with relative Markdown links so the collection reads as a knowledge graph.
 - Is a single new topic — check `index.md` before writing to avoid duplicates.
+- Has a body of 400–900 words (Sources section excluded) and a lowercase-hyphenated filename.
+- Lists only existing articles in `related`. Wikipedia is not an accepted source.
+
+Run the checks locally with `pip install pyyaml && python3 scripts/lint_articles.py`.
 
 ## How this repo is maintained
 
@@ -36,3 +41,13 @@ Four scheduled Claude jobs run the pipeline. Labels are the state machine:
 | Merger | hourly | `approved` / `changes-requested` PRs | up to 4 per run: merges, or revises; after 2 revision rounds → `blocked` |
 
 Anything labeled `blocked` is waiting on a human.
+
+## GitHub Actions
+
+| Workflow | Trigger | What it does |
+|---|---|---|
+| Validate articles | every PR and push to `main` | Runs `scripts/lint_articles.py`: front matter, sources, word count, related slugs, relative links. Warns if a PR edits `index.md`. |
+| Build index | push to `main` touching `articles/` | Regenerates `index.md` from front matter and commits it. |
+| Weekly link check | Mondays 09:17 UTC | Checks every source URL; opens a `planned` issue listing broken links so the Builder fixes them. |
+
+PRs must pass **Validate articles** before the Merger will merge them.
