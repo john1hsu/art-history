@@ -20,7 +20,7 @@ Table of contents for the art-history collection, grouped by category.
 
 ## Techniques
 
-_No articles yet._
+- [Inca Qompi Tapestry Weaving and Tocapu](articles/techniques/inca-qompi-tapestry-weaving.md) — c. 1400–1532 CE (Inca Empire, Andes); colonial continuations
 
 ## Themes
 
@@ -28,4 +28,4 @@ _No articles yet._
 
 ---
 
-6 article(s).
+7 article(s).
