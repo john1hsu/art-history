@@ -6,6 +6,7 @@ Table of contents for the art-history collection, grouped by category.
 
 ## Movements
 
+- [Mexican Muralism](articles/movements/mexican-muralism.md) — Modern, c. 1921–1950s
 - [Ukiyo-e: Pictures of the Floating World](articles/movements/ukiyo-e.md) — Edo period, 17th–19th century
 
 ## Artists
@@ -27,4 +28,4 @@ _No articles yet._
 
 ---
 
-5 article(s).
+6 article(s).
